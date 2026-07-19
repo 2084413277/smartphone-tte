@@ -1,3 +1,3 @@
 # smartphone-tte
 
-The code is currently being organized and will be publicly released after publication of the associated paper. Thank you for your understanding.
+Core code for smartphone time-to-empty prediction using the MDF dataset.
